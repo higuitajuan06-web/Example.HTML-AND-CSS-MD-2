@@ -10,5 +10,12 @@ DOCUMENTO > 1033183152
   
 3. Recursos utilizados (imágenes, fuentes, íconos) dentro de carpetas
 organizadas. [
-  
+  RECURSOS UTILIZADOS Y MAX REPOSITORIOS 
+  Puedes usar tus propios repositorios
+  • Documentación oficial de HTML
+  • Documentación oficial de CSS
+  • Guía de Flexbox
+  • Guía de CSS Grid
+  • Responsive Web Design
+  • Google Fonts
 ]
